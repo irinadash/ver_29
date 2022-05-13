@@ -2,6 +2,11 @@
 2) iPhone 12
 3) Samsung S22
 4) Samsung s22
+<<<<<<< HEAD
 5) Xiaomi p40
 6) Oppo n100 
   
+=======
+5) Xiaomi p20
+6) iPhone 7
+>>>>>>> bd05c7eeb9a44b9901b9645859c5990de224a836
